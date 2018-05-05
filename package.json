@@ -1,0 +1,12 @@
+{
+    "name": "vip-node-examples",
+    "version": "1.0.0",
+    "description": "collection of node examples",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "author": "Vipin Joshi",
+    "license": "Open"
+}
