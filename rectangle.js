@@ -3,7 +3,7 @@ module.exports = (x, y, callback) => {
     if (x <= 0 || y <= 0) {
         setTimeout(() =>
             callback(
-                new Error('to calculate area of rectangle we must have length and breadth greater than 0')
+                new Error('To calculate area of rectangle we must have length and breadth greater than 0')
                 , null)
             , 3000);
     }
